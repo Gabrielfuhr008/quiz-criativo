@@ -1,5 +1,4 @@
-#print(f'voce obteve: {contador_acertos} acertos e {contador_erros} erros')
-#print(f'seus acertos: {acertos} \n seus erros: {erros}')
+
 nome=input('qual o seu nome:\n')
 print(f'Seja Bem Vindo(a): {nome}')
 print(f'hoje faremos um quiz sobre Informatica')
